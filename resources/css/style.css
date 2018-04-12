@@ -1,5 +1,5 @@
 body {
-  text-align: center horizontal;
+  text-align: center;
   font-family: Helvetica;
   }
 
@@ -29,4 +29,9 @@ h3 {
   font-size: 11px;
   color: white;
   background-color: dimgray;
+}
+
+p {
+  font-size: 18px;
+  color: white;
 }
